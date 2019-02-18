@@ -129,3 +129,20 @@ video {
     height: 100%;
 }
 
+@media (max-width: 768px) {
+    .title {
+        font-size: 1em;
+        padding: 0;
+    }
+    .description {
+        font-size: 1.3em;
+        padding: 0 3%;
+    }
+    .title h2 {
+        font-size: 2.2em;
+    }
+    .titleMob{
+        padding: 0 4%;
+        text-align: center;
+    }
+}
