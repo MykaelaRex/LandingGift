@@ -193,6 +193,8 @@ span {
     }
     .title {
         font-size: 1.5em;
+        padding: 0 4%;
+        text-align: center;
     }
     .text {
         font-size: 1.3em;
