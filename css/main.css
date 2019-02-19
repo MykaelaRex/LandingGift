@@ -39,6 +39,10 @@ body {
     color: #A6919B;
 }
 
+.text-witheW {
+    color: white;
+}
+
 .title, .description, button {
     font-family: 'Vollkorn', serif;
     font-size: 1.3em;
@@ -84,7 +88,7 @@ video {
 }
 
 .type3 {
-    color: #A6919B;
+    color: white;
     font-size: 1.8em;
     text-decoration: none;
 }
