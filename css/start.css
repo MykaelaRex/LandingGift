@@ -198,12 +198,15 @@ span {
     }
     .text {
         font-size: 1.3em;
-        padding: 0;
+        padding: 0 3%;
     }
     .type3 {
         font-size: 1.5em;
     }
     .dirmov {
         flex-direction: column;
+    }
+    .pd0Mob {
+        padding: 0;
     }
 }
